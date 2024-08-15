@@ -69,6 +69,20 @@ _**ʟᴇᴛ’ꜱ ᴄᴏɴɴᴇᴄᴛ ᴀɴᴅ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇ
 | ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEX001&show_icons=true&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEX001&layout=compact&theme=github_dark) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KEX001&theme=dark&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF) |
 |---|---|---|
 
+<p align="center">
+  <img alt="Trophies" style="padding-bottom: 1px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github-profile-trophy.vercel.app/?username=kunal&theme=darkhub" />
+</p>
 
+[![An image of @KEX001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/VARC9210)](https://holopin.io/@VARC9210)
+
+<a href="https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq" target="_blank">
+  <img alt="Spotify" src="https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+
+
+
+<a href="https://www.youtube.com/@GW_KUNAAL" class="padded"><img align="left" alt="KEX" width="40px" src="./res/youtube.png" /></a> 
+<a href="https://t.me/KEXX_XD" class="padded"><img align="left" alt="KEX" width="40px" src="./res/telegram.png" /></a> 
+<a href="https://twitter.com/kxunall" class="padded"><img align="left" alt="xditya" width="40px" src="./res/twitter.png" /></a> 
 
 

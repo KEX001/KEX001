@@ -64,27 +64,6 @@ _**ʟᴇᴛ’ꜱ ᴄᴏɴɴᴇᴄᴛ ᴀɴᴅ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇ
   <a href="https://deno.land">
     <img src="https://skillicons.dev/icons?i=deno" />
   </a>
-  <a href="https://flutter.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
-  </a>
-  <a href="https://fastapi.tiangolo.com">
-    <img src="https://skillicons.dev/icons?i=fastapi" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://skillicons.dev/icons?i=bash" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linux.org">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
 </p>
 
 </p>

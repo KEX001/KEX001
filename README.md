@@ -66,6 +66,6 @@ _**ʟᴇᴛ’ꜱ ᴄᴏɴɴᴇᴄᴛ ᴀɴᴅ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇ
   </a>
 </p>
 
-| ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEX001&show_icons=true&theme=blueberry) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEX001&layout=compact&theme=blueberry) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KEX001&theme=black-ice&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF) |
+| ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEX001&show_icons=true&theme=black-ice) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEX001&layout=compact&theme=black-ice) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KEX001&theme=black-ice&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF) |
 |---|---|---|
 

@@ -66,5 +66,3 @@ _**ʟᴇᴛ’ꜱ ᴄᴏɴɴᴇᴄᴛ ᴀɴᴅ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇ
   </a>
 </p>
 
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=KEX001&show_icons=true&theme=github_dark" alt="Stats">

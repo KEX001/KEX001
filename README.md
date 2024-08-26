@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/KEX001/KEX001/blob/main/Kex.png" alt="Stats" width="300px">
+<img align="left" src="https://github.com/KEX001/KEX001/blob/main/Kex.jpeg" alt="Stats" width="300px">
 
 ## _**ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ ᴋᴜɴᴀʟ, ᴀɴᴅ ɪ'ᴍ 17**_
 _**ɪ ꜱᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ᴠɪꜱᴜᴀʟ ʙᴀꜱɪᴄ ᴀɴᴅ ᴀᴍ ɴᴏᴡ ᴅɪᴠɪɴɢ ɪɴᴛᴏ ʜᴛᴍʟ, ᴄ++, ᴄ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴘʜᴘ, ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ ʟᴀɴɢᴜᴀɢᴇꜱ. ᴀʟᴏɴɢꜱɪᴅᴇ, ɪ’ᴍ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ɢᴀᴍɪɴɢ, ꜱɪɴɢɪɴɢ, ᴀɴᴅ ꜱᴋᴇᴛᴄʜɪɴɢ.**_

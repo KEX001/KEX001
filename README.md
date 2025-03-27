@@ -50,7 +50,7 @@
 ## 🏆 **Achievements & Badges**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunal&theme=darkhub&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal&theme=darkhub&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 [![Holopin Badges](https://holopin.me/VARC9210)](https://holopin.io/@VARC9210)

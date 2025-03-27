@@ -81,8 +81,7 @@ _**ʟᴇᴛ’ꜱ ᴄᴏɴɴᴇᴄᴛ ᴀɴᴅ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇ
 
 
 
-<a href="https://www.youtube.com/@GW_KUNAAL" class="padded"><img align="left" alt="KEX" width="40px" src="./res/youtube.png" /></a> 
-<a href="https://t.me/KEXX_XD" class="padded"><img align="left" alt="KEX" width="40px" src="./res/telegram.png" /></a> 
+<a href="https://t.me/ll_KEX_ll" class="padded"><img align="left" alt="KEX" width="40px" src="./res/telegram.png" /></a> 
 <a href="https://twitter.com/kxunall" class="padded"><img align="left" alt="xditya" width="40px" src="./res/twitter.png" /></a> 
 
 

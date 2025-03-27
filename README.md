@@ -64,11 +64,5 @@
 </a>
 
 ---
-
-## 📬 **Connect With Me**
-
-<p align="center">
-  <a href="https://t.me/ll_KEX_ll" target="_blank"><img alt="Telegram" src="./res/telegram.png" width="50px" /></a>
-  <a href="https://twitter.com/kxunall" target="_blank"><img alt="Twitter" src="./res/twitter.png" width="50px" /></a>
 </div>
 

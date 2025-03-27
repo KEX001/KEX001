@@ -67,10 +67,8 @@
 
 ## 📬 **Connect With Me**
 
-<p align="center">
-  <a href="https://t.me/ll_KEX_ll" target="_blank"><img alt="Telegram" src="https://skillicons.dev/icons?i=telegram" width="50px" /></a>
-  <a href="https://twitter.com/kxunall" target="_blank"><img alt="Twitter" src="https://skillicons.dev/icons?i=twitter" width="50px" /></a>
-</p>
+<a href="https://t.me/ll_KEX_ll" class="padded"><img align="left" alt="KEX" width="40px" src="./res/telegram.png" /></a> 
+<a href="https://twitter.com/kxunall" class="padded"><img align="left" alt="xditya" width="40px" src="./res/twitter.png" /></a> 
 
 </div>
 

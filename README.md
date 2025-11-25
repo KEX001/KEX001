@@ -2,6 +2,8 @@
 
 ![Banner](https://github.com/KEX001/KEX001/blob/main/bunny.png)
 
+
+
 # 🚀 **Hey, I'm Kunal!**
 
 ### 🧑‍💻 **17-year-old developer exploring the digital universe**
@@ -20,8 +22,8 @@
 
 ## 📊 **GitHub Insights**
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEX001&show_icons=true&theme=github_dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEX001&layout=compact&theme=github_dark&hide_border=true) |
-|---|---|
+|  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEX001&layout=compact&theme=github_dark&hide_border=true) |
+|---|
 
 
 
@@ -43,7 +45,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kxunall)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kxunal._/)  
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@kxunal._)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ll_KEX_ll)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/synckex)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamkunal.dev@gmail.com)
 </div>
 
